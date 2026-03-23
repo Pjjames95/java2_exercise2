@@ -7,7 +7,7 @@
     double netSalary;
 
 
-//construoctor for our instance class Employee
+//constructor for our instance class Employee
     Employee(String employeeName, String employeeNumber, String employeeEmail, double employeeGrossSalary){
         this.employeeName = employeeName;
         this.employeeNumber = employeeNumber;
